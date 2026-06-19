@@ -35,6 +35,150 @@
           "question": "According to the passage, what was the primary driver for the shift in corporate objectives?",
           "options": ["A decline in shareholder returns", "Government legislation", "Societal pressures and environmental concerns", "The industrial revolution"],
           "answer": "Societal pressures and environmental concerns"
+
+{
+  "synonyms": [
+    {
+      "question": "Choose the word closest in meaning to the capitalized word in the context of a philosophical discourse: 'The professor's thesis was so ABSTRUSE that even his peer reviewers struggled to find the underlying logical thread.'",
+      "options": ["Superficial", "Esoteric", "Transparent", "Banal"],
+      "answer": "Esoteric"
+    },
+    {
+      "question": "Identify the absolute synonym for RECONDITE as used in advanced literary criticism.",
+      "options": ["Obvious", "Simple", "Obscure", "Manifest"],
+      "answer": "Obscure"
+    },
+    {
+      "question": "What is the closest synonym for AMELIORATE in the context of economic reform: 'The central bank's intervention was designed to ameliorate the liquidity crunch.'",
+      "options": ["Aggravate", "Mitigate", "Stagnate", "Worsen"],
+      "answer": "Mitigate"
+    },
+    {
+      "question": "Select the option that best matches the meaning of PELLUCID when describing a prose style.",
+      "options": ["Convoluted", "Opaque", "Comprehensible", "Turbid"],
+      "answer": "Comprehensible"
+    },
+    {
+      "question": "In corporate negotiations, an OBDURATE stance is best described as:",
+      "options": ["Flexible", "Adamant", "Compliant", "Amicable"],
+      "answer": "Adamant"
+    }
+  ],
+  "antonyms": [
+    {
+      "question": "Identify the contextual antonym for SENTENTIOUS: 'His sententious style of addressing the board alienated the younger executives who preferred data over moralizing.'",
+      "options": ["Moralistic", "Pompous", "Unassuming", "Self-righteous"],
+      "answer": "Unassuming"
+    },
+    {
+      "question": "What is the exact antonym of TORPID in an industrial or economic context?",
+      "options": ["Lethargic", "Inactive", "Energetic", "Somnolent"],
+      "answer": "Energetic"
+    },
+    {
+      "question": "Choose the word most opposite in meaning to AFFLUENCE.",
+      "options": ["Prosperity", "Poverty", "Wealth", "Opulence"],
+      "answer": "Poverty"
+    },
+    {
+      "question": "Find the true antonym for AMICABLE when describing international diplomatic relations.",
+      "options": ["Friendly", "Hostile", "Cordial", "Harmonious"],
+      "answer": "Hostile"
+    },
+    {
+      "question": "What is the most appropriate antonym for FASTIDIOUS regarding an editor's level of detail?",
+      "options": ["Meticulous", "Painstaking", "Careless", "Scrupulous"],
+      "answer": "Careless"
+    }
+  ],
+  "grammar": [
+    {
+      "question": "Spot the Error: (A) Scarcely had the business magnate signed the merger agreement (B) than the regulatory body launched an investigation (C) into insider trading allegations. (D) No Error",
+      "options": ["Part A", "Part B", "Part C", "Part D"],
+      "answer": "Part B"
+    },
+    {
+      "question": "Sentence Correction: Choose the grammatically flawless variant.",
+      "options": [
+        "Being an abstruse subject, the students struggled to grasp the core concepts of quantum mechanics.",
+        "Because the subject was abstruse, the students struggled to grasp the core concepts of quantum mechanics.",
+        "Being that the subject was abstruse, it made the students struggle to grasp its core concepts.",
+        "The subject being abstruse, it caused the students to struggle to grasp the core concepts."
+      ],
+      "answer": "Because the subject was abstruse, the students struggled to grasp the core concepts of quantum mechanics."
+    },
+    {
+      "question": "Spot the Error: (A) Neither the financial consultant nor the board members (B) was able to predict the abysmal performance (C) of the technological stock in the third quarter. (D) No Error",
+      "options": ["Part A", "Part B", "Part C", "Part D"],
+      "answer": "Part B"
+    },
+    {
+      "question": "Identify the grammatical violation: 'The committee has been debating whether to abrogate the old bylaws for six months, but they haven't reached an accord.'",
+      "options": [
+        "Faulty pronoun-antecedent agreement ('committee' vs 'they')",
+        "Incorrect tense usage with 'for six months'",
+        "Wrong preposition after 'debating'",
+        "No grammatical error present"
+      ],
+      "answer": "Faulty pronoun-antecedent agreement ('committee' vs 'they')"
+    },
+    {
+      "question": "Sentence Correction: 'If the CEO would have acted more gingerly during the initial public offering, the company's valuation would not have plummeted.'",
+      "options": [
+        "If the CEO would have acted more gingerly",
+        "Had the CEO acted more gingerly",
+        "If the CEO acted more gingerly",
+        "Should the CEO have acted more gingerly"
+      ],
+      "answer": "Had the CEO acted more gingerly"
+    }
+  ],
+  "jumbles": [
+    {
+      "question": "Arrange the sentences into a logically coherent paragraph:\n1. This structural shift explains why legacy firms often face a complete debacle when market paradigms change.\n2. Overweening corporate confidence frequently blinds executives to burgeoning disruptive technologies.\n3. Consequently, they remain obstinately tied to outdated processes until extinction becomes inevitable.\n4. Innovation requires an agile structure that can rapidly absorb systemic shocks.",
+      "options": ["4231", "2314", "4123", "2413"],
+      "answer": "4231"
+    },
+    {
+      "question": "Arrange the sentences into a logically coherent paragraph:\n1. Classical economists assumed that market participants were entirely rational, canny actors making mathematical choices.\n2. However, behavioral anomalies demonstrate that human decision-making is heavily compromised by cognitive biases.\n3. This divergence between theoretical assumptions and psychological reality underpins modern behavioral economics.\n4. Price corrections, therefore, do not always follow smooth, predictable trajectories.",
+      "options": ["1234", "1243", "2134", "3124"],
+      "answer": "1234"
+    },
+    {
+      "question": "Arrange the sentences into a logically coherent paragraph:\n1. The resulting aesthetic pandemonium forced art critics to completely re-evaluate the boundaries of creative expression.\n2. When the bohemian art collective unveiled their raw, avant-garde installation, the traditional community reacted with immediate antipathy.\n3. Culturally conservative patrons derided the exhibit as a flagrant insult to classical fine arts.\n4. It was an offbeat, highly chaotic collage of industrial waste and visceral digital projections.",
+      "options": ["2431", "2341", "4231", "3241"],
+      "answer": "2431"
+    }
+  ],
+  "comprehension": [
+    {
+      "passage": "The modern geopolitical landscape is increasingly defined by what classical theorists termed an anarchic struggle for hegemony, yet disguised beneath a veneer of institutional cooperation. While international treaties and global trade bodies present a facade of multilateral harmony, nation-states behave with a cold, calculated insularity when core existential interests are threatened. This dichotomy reveals that global governance frameworks do not supplant state sovereignty; rather, they serve as arenas where power is asymmetrical and diplomatic leverage is ruthlessly executed. The illusion of a rules-based global order obfuscates the raw, Darwinian calculus that dictates interstate relations during systemic crises.",
+      "questions": [
+        {
+          "question": "Which of the following statements best captures the central argument of the author?",
+          "options": [
+            "International institutions have successfully replaced state sovereignty as the primary drivers of global governance.",
+            "Global governance frameworks are merely transactional arenas that mask a fundamental, self-interested struggle for power among nations.",
+            "Systemic crises are entirely responsible for the collapse of otherwise harmonious international trade relations.",
+            "The Darwinian calculus of interstate relations is completely neutralized by strong multilateral treaties."
+          ],
+          "answer": "Global governance frameworks are merely transactional arenas that mask a fundamental, self-interested struggle for power among nations."
+        },
+        {
+          "question": "According to the passage, the phrase 'facade of multilateral harmony' implies that:",
+          "options": [
+            "Global trade bodies are entirely useless and have no impact on international law.",
+            "International cooperation is an illusion that conceals underlying competitive self-interest.",
+            "Existential threats to nation-states are easily mitigated by existing institutional frameworks.",
+            "Rules-based global systems are inherently flawed due to an absence of mathematical clarity."
+          ],
+          "answer": "International cooperation is an illusion that conceals underlying competitive self-interest."
+        }
+      ]
+    }
+  ]
+}
+
         }
       ]
     }

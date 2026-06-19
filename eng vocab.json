@@ -1,0 +1,42 @@
+{
+  "synonyms": [
+    {
+      "question": "What is the synonym of 'Abase'?",
+      "options": ["Regard", "Humiliate", "Honour", "Relax"],
+      "answer": "Humiliate"
+    }
+  ],
+  "antonyms": [
+    {
+      "question": "What is the antonym of 'Abate'?",
+      "options": ["Weaken", "Lessen", "Intensify", "Shorten"],
+      "answer": "Intensify"
+    }
+  ],
+  "grammar": [
+    {
+      "question": "Spot the Error: The reason why he missed the CAT exam was because his train was delayed.",
+      "options": ["The reason why", "missed the CAT exam", "was because his train", "No Error"],
+      "answer": "was because his train"
+    }
+  ],
+  "jumbles": [
+    {
+      "question": "Rearrange: A) It is an integrated approach. B) Management is not just a science. C) It involves human emotion and logic. D) It is also an art.",
+      "options": ["BDCA", "BADC", "ABCD", "DCBA"],
+      "answer": "BDCA"
+    }
+  ],
+  "comprehension": [
+    {
+      "passage": "The evolution of modern business ethics traces back to the industrial revolution. Initially, profit maximization was the sole objective of corporations. However, societal pressures and environmental concerns have forced a paradigm shift towards stakeholder theory, where the interests of employees, customers, and the community hold equal weight to shareholder returns.",
+      "questions": [
+        {
+          "question": "According to the passage, what was the primary driver for the shift in corporate objectives?",
+          "options": ["A decline in shareholder returns", "Government legislation", "Societal pressures and environmental concerns", "The industrial revolution"],
+          "answer": "Societal pressures and environmental concerns"
+        }
+      ]
+    }
+  ]
+}

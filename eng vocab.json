@@ -173,6 +173,204 @@
             "Rules-based global systems are inherently flawed due to an absence of mathematical clarity."
           ],
           "answer": "International cooperation is an illusion that conceals underlying competitive self-interest."
+{
+  "synonyms": [
+    {
+      "question": "What is the synonym of 'Abnegate'?[span_0](start_span)[span_0](end_span)",
+      "options": ["Discard", "Accept", "Embrace", "Retain"],
+      "answer": "Discard"
+    },
+    {
+      "question": "Choose the word closest in meaning to 'Adroit'.[span_1](start_span)[span_1](end_span)",
+      "options": ["Incompetent", "Proficient", "Clumsy", "Unskilled"],
+      "answer": "Proficient"
+    },
+    {
+      "question": "In a corporate context, what does it mean to 'Cajole' a client?[span_2](start_span)[span_2](end_span)",
+      "options": ["Threaten", "Dissuade", "Coax", "Demand"],
+      "answer": "Coax"
+    },
+    {
+      "question": "Identify the synonym for 'Debilitate' as used in medical or structural terminology.[span_3](start_span)[span_3](end_span)",
+      "options": ["Strengthen", "Enable", "Cripple", "Bolster"],
+      "answer": "Cripple"
+    },
+    {
+      "question": "Which of the following best represents the meaning of 'Fatuous'?[span_4](start_span)[span_4](end_span)",
+      "options": ["Sensible", "Intelligent", "Silly", "Pragmatic"],
+      "answer": "Silly"
+    },
+    {
+      "question": "What is the synonym of 'Obfuscate' when dealing with complex legal jargon?[span_5](start_span)[span_5](end_span)",
+      "options": ["Clarify", "Enlighten", "Obscure", "Simplify"],
+      "answer": "Obscure"
+    },
+    {
+      "question": "Select the closest meaning to the word 'Quixotic'.[span_6](start_span)[span_6](end_span)",
+      "options": ["Pragmatic", "Idealistic", "Practical", "Calculated"],
+      "answer": "Idealistic"
+    },
+    {
+      "question": "What is the synonym for 'Redolent' in the context of nostalgia or sensory descriptions?[span_7](start_span)[span_7](end_span)",
+      "options": ["Evocative", "Bland", "Unsavoury", "Odorless"],
+      "answer": "Evocative"
+    },
+    {
+      "question": "Choose the word that best matches the definition of 'Voracious'.[span_8](start_span)[span_8](end_span)",
+      "options": ["Controllable", "Apathetic", "Insatiable", "Moderate"],
+      "answer": "Insatiable"
+    },
+    {
+      "question": "Identify the synonym for 'Zany' when describing a comedian's performance.[span_9](start_span)[span_9](end_span)",
+      "options": ["Sensible", "Familiar", "Eccentric", "Conventional"],
+      "answer": "Eccentric"
+    }
+  ],
+  "antonyms": [
+    {
+      "question": "What is the antonym of 'Abrasive' behavior in an office environment?[span_10](start_span)[span_10](end_span)",
+      "options": ["Rude", "Annoying", "Pleasant", "Unfriendly"],
+      "answer": "Pleasant"
+    },
+    {
+      "question": "Choose the exact antonym for 'Altruism'.[span_11](start_span)[span_11](end_span)",
+      "options": ["Benevolence", "Humanitarianism", "Greediness", "Philanthropy"],
+      "answer": "Greediness"
+    },
+    {
+      "question": "What is the most appropriate antonym for 'Enervate'?[span_12](start_span)[span_12](end_span)",
+      "options": ["Debilitate", "Devitalise", "Energise", "Exhaust"],
+      "answer": "Energise"
+    },
+    {
+      "question": "Identify the antonym for 'Mellifluous' when referring to acoustics or voice.[span_13](start_span)[span_13](end_span)",
+      "options": ["Harmonious", "Mellow", "Cacophonous", "Smooth"],
+      "answer": "Cacophonous"
+    },
+    {
+      "question": "Find the true antonym for 'Pellucid' regarding a piece of writing.[span_14](start_span)[span_14](end_span)",
+      "options": ["Comprehensible", "Clear", "Unclear", "Understandable"],
+      "answer": "Unclear"
+    },
+    {
+      "question": "What is the antonym of 'Slovenly'?[span_15](start_span)[span_15](end_span)",
+      "options": ["Messy", "Scruffy", "Tidy", "Untidy"],
+      "answer": "Tidy"
+    },
+    {
+      "question": "Choose the word most opposite in meaning to 'Torpid'.[span_16](start_span)[span_16](end_span)",
+      "options": ["Lethargic", "Inactive", "Active", "Sluggish"],
+      "answer": "Active"
+    },
+    {
+      "question": "What is the antonym of 'Zest' in a professional setting?[span_17](start_span)[span_17](end_span)",
+      "options": ["Enthusiasm", "Eagerness", "Apathy", "Energy"],
+      "answer": "Apathy"
+    },
+    {
+      "question": "Identify the contextual antonym for 'Ameliorate' during an economic crisis.[span_18](start_span)[span_18](end_span)",
+      "options": ["Mitigate", "Improve", "Aggravate", "Soothe"],
+      "answer": "Aggravate"
+    },
+    {
+      "question": "What is the antonym for 'Clandestine' (implied via Cabal/Skullduggery concepts)?[span_19](start_span)[span_19](end_span)",
+      "options": ["Secretive", "Covert", "Overt", "Surreptitious"],
+      "answer": "Overt"
+    }
+  ],
+  "grammar": [
+    {
+      "question": "Spot the Error: (A) The CEO, together with his chief financial officers, (B) are planning to abrogate (C) the outdated human resources policies. (D) No Error[span_20](start_span)[span_20](end_span)",
+      "options": ["Part A", "Part B", "Part C", "Part D"],
+      "answer": "Part B"
+    },
+    {
+      "question": "Sentence Correction: 'Not only the manager praised the team for their adroit handling of the crisis, but he also recommended them for a bonus.[span_21](start_span)'[span_21](end_span)",
+      "options": [
+        "Not only the manager praised the team",
+        "Not only did the manager praise the team",
+        "The manager not only had praised the team",
+        "Not only manager praised the team"
+      ],
+      "answer": "Not only did the manager praise the team"
+    },
+    {
+      "question": "Spot the Error: (A) Despite of the market volatility, (B) the magnate remained buoyant (C) about the upcoming merger. (D) No Error[span_22](start_span)[span_22](end_span)",
+      "options": ["Part A", "Part B", "Part C", "Part D"],
+      "answer": "Part A"
+    },
+    {
+      "question": "Sentence Correction: 'Between you and I, the decision to amalgamate the two departments was a colossal mistake.[span_23](start_span)'[span_23](end_span)",
+      "options": [
+        "Between you and I",
+        "Between you and me",
+        "Among you and I",
+        "Amongst you and me"
+      ],
+      "answer": "Between you and me"
+    },
+    {
+      "question": "Spot the Error: (A) If he had not bitten off more than he could chew, (B) he would not have failed (C) so miserably in the project. (D) No Error[span_24](start_span)[span_24](end_span)",
+      "options": ["Part A", "Part B", "Part C", "Part D"],
+      "answer": "Part D"
+    }
+  ],
+  "jumbles": [
+    {
+      "question": "Rearrange: \n1. A flash in the pan success often misleads novice entrepreneurs.[span_25](start_span)[span_25](end_span)\n2. True market dominance requires sustained effort and robust infrastructure.\n3. They assume that initial virality equates to long-term profitability.\n4. Consequently, they fail to invest in the core competencies that endure over time.",
+      "options": ["1342", "1432", "2134", "3142"],
+      "answer": "1342"
+    },
+    {
+      "question": "Rearrange: \n1. The board faced a conundrum regarding the obsolete machinery.[span_26](start_span)[span_26](end_span)\n2. Upgrading the system would require an onerous financial commitment.[span_27](start_span)[span_27](end_span)\n3. Therefore, they decided to keep the equipment in abeyance until the next fiscal year.[span_28](start_span)[span_28](end_span)\n4. However, leaving it as it was continuously hampered the production line.",
+      "options": ["1243", "1423", "2413", "4123"],
+      "answer": "1243"
+    },
+    {
+      "question": "Rearrange: \n1. Idioms like 'Rome was not built in a day' remind us of the value of patience.[span_29](start_span)[span_29](end_span)\n2. In today's fast-paced corporate world, instant gratification is highly sought after.\n3. Yet, monumental achievements inherently demand rigorous, long-term strategizing.\n4. This cultural shift often leads to half-baked products being rushed to the market.",
+      "options": ["2413", "2431", "1243", "4213"],
+      "answer": "2413"
+    }
+  ],
+  "comprehension": [
+    {
+      "passage": "In the realm of modern finance, the shift from traditional banking to decentralized digital currencies has been nothing short of a paradigm shift. Skeptics originally viewed the technology as a mere 'flash in the pan', an apocryphal trend fueled by rabid enthusiasts and speculative trading[span_30](start_span)[span_30](end_span). However, as the underlying blockchain infrastructure proved its mettle, offering a highly secure and transparent ledger, institutional investors began to take notice. The initial antipathy has slowly transitioned into a cautious acceptance[span_31](start_span)[span_31](end_span). Today, while the market remains inherently labile and subject to extreme volatility, the consensus is moving away from outright nihilism regarding its worth[span_32](start_span)[span_32](end_span). Regulators, once obdurate in their resistance, are now seeking ways to integrate these digital assets into the mainstream economy without completely abandoning their oversight mandates[span_33](start_span)[span_33](end_span).",
+      "questions": [
+        {
+          "question": "According to the passage, why did institutional investors begin to take notice of digital currencies?",
+          "options": [
+            "Because of the rabid enthusiasm of early adopters.",
+            "Because the market proved to be highly stable and non-volatile.",
+            "Because the underlying technology demonstrated security and transparency.",
+            "Because regulators forced them to integrate digital assets."
+          ],
+          "answer": "Because the underlying technology demonstrated security and transparency."
+        },
+        {
+          "question": "Based on the passage, the word 'apocryphal' is used to suggest that the trend was initially viewed as:[span_34](start_span)[span_34](end_span)",
+          "options": [
+            "Highly credible and historically significant.",
+            "Well-known but likely untrue or without solid foundation.",
+            "A secure and transparent method of trading.",
+            "An inevitable technological advancement."
+          ],
+          "answer": "Well-known but likely untrue or without solid foundation."
+        },
+        {
+          "question": "What is the current stance of the regulators regarding digital currencies according to the text?",
+          "options": [
+            "They remain entirely obdurate and resistant to any change.",
+            "They have completely abandoned their oversight mandates.",
+            "They are looking to incorporate digital assets while maintaining regulatory control.",
+            "They believe digital currencies are a 'flash in the pan'."
+          ],
+          "answer": "They are looking to incorporate digital assets while maintaining regulatory control."
+        }
+      ]
+    }
+  ]
+}
+
         }
       ]
     }

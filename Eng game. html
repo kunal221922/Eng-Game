@@ -51,8 +51,9 @@
     </div>
 
     <script>
-        // PASTE YOUR JSON URL HERE
-        const DATABASE_URL = 'YOUR_NPOINT_OR_GIST_RAW_URL_HERE'; 
+        // The generator writes eng_vocab.json locally. When serving this folder with a simple HTTP server,
+        // fetch('eng_vocab.json') will work. Ensure you run: python3 -m http.server 8000
+        const DATABASE_URL = 'eng_vocab.json';
         
         let activeQuestions = [];
         let allData = {};
@@ -66,9 +67,13 @@
             }
 
             try {
-                // Fetch data from the net
-                document.querySelector('.btn').innerText = "Loading...";
+                // Fetch data from the local file served over HTTP
+                const startBtn = document.querySelector('.btn');
+                startBtn.disabled = true;
+                startBtn.innerText = "Loading...";
+
                 const response = await fetch(DATABASE_URL);
+                if (!response.ok) throw new Error('Network response was not ok');
                 allData = await response.json();
                 
                 activeQuestions = [];
@@ -92,8 +97,9 @@
 
                 renderQuiz();
             } catch (error) {
-                alert("Error fetching database. Did you paste your JSON URL into the code?");
+                alert("Error fetching database. Make sure you are serving this folder over HTTP and that eng_vocab.json exists. " + error.message);
                 document.querySelector('.btn').innerText = "Load Questions & Start";
+                document.querySelector('.btn').disabled = false;
             }
         }
 
